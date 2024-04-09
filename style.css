@@ -99,6 +99,18 @@
     margin: 25px 0;
 }
 
+/* testmonial */
+.testimonial {
+    margin-top: 100px;
+}
+
+.testimonial h5 {
+    text-align: center;
+    font-weight: 200;
+    font-style: italic;
+    font-size: 24px;
+}
+
 /* Utility */
 .tombol {
     text-transform: uppercase;
