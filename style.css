@@ -147,6 +147,16 @@
     border-radius: 40px;
 }
 
+/* footer */
+
+.footer {
+    margin-top: 50px;
+}
+.footer p {
+    color: #ACACAC;
+    font-size: 18px;
+}
+
 
 
 /* Desktop version */
